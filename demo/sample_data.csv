@@ -1,0 +1,21 @@
+id,name,age,city,salary,department
+1,John Doe,32,New York,75000,Engineering
+2,Jane Smith,28,San Francisco,82000,Marketing
+3,Bob Johnson,35,Chicago,68000,Sales
+4,Alice Brown,29,Boston,71000,Engineering
+5,Charlie Wilson,31,Seattle,78000,Product
+6,Diana Davis,27,Austin,69000,Marketing
+7,Edward Miller,33,Denver,72000,Engineering
+8,Fiona Garcia,26,Miami,65000,Sales
+9,George Lee,34,Portland,76000,Product
+10,Helen Taylor,30,Atlanta,70000,Marketing
+11,Ian Anderson,36,Philadelphia,81000,Engineering
+12,Julia Martinez,25,San Diego,67000,Sales
+13,Kevin Thompson,37,Dallas,79000,Product
+14,Lisa White,28,Detroit,68000,Marketing
+15,Mark Harris,32,Phoenix,73000,Engineering
+16,Nina Clark,29,Las Vegas,71000,Sales
+17,Oscar Lewis,35,Minneapolis,77000,Product
+18,Paula Hall,27,Charlotte,69000,Marketing
+19,Quinn Young,33,Orlando,74000,Engineering
+20,Rachel King,31,Nashville,72000,Sales

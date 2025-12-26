@@ -1,0 +1,60 @@
+{
+  "name": "ai-notebook-frontend",
+  "version": "1.0.0",
+  "description": "AI-driven notebook frontend with DAG visualization and agent chat",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-router-dom": "^6.8.0",
+    "axios": "^1.3.0",
+    "monaco-editor": "^0.36.1",
+    "@monaco-editor/react": "^4.5.0",
+    "react-flow-renderer": "^10.3.17",
+    "d3": "^7.8.0",
+    "recharts": "^2.5.0",
+    "lucide-react": "^0.263.1",
+    "clsx": "^1.2.1",
+    "tailwindcss": "^3.2.7",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.16",
+    "framer-motion": "^10.0.1",
+    "react-hot-toast": "^2.4.0",
+    "react-markdown": "^8.0.7",
+    "remark-gfm": "^3.0.1",
+    "prismjs": "^1.29.0",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@types/d3": "^7.4.0"
+  }
+}
